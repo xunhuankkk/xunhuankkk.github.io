@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>echo </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on echo </description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>今天是个特别的日子</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;今天终于把自己的博客搭起来了。&lt;/p&gt;
+&lt;p&gt;以前一直觉得做网站很难。&lt;/p&gt;
+&lt;p&gt;结果发现跟着一步一步做，其实完全可以实现。&lt;/p&gt;
+&lt;p&gt;以后这里就是我的互联网小角落。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;你好-&#34;&gt;你好 👋&lt;/h1&gt;
+&lt;p&gt;欢迎来到我的博客。&lt;/p&gt;
+&lt;p&gt;我是 echo。&lt;/p&gt;
+&lt;p&gt;这里会记录：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;日常生活&lt;/li&gt;
+&lt;li&gt;学习过程&lt;/li&gt;
+&lt;li&gt;技术探索&lt;/li&gt;
+&lt;li&gt;旅行见闻&lt;/li&gt;
+&lt;li&gt;一些随手写下的想法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;为什么建立这个博客&#34;&gt;为什么建立这个博客&lt;/h2&gt;
+&lt;p&gt;我想拥有一个属于自己的互联网空间。&lt;/p&gt;
+&lt;p&gt;把值得记录的事情长期保存下来。&lt;/p&gt;
+&lt;p&gt;多年以后回头看，也许会很有意思。&lt;/p&gt;
+&lt;h2 id=&#34;最近在做什么&#34;&gt;最近在做什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;学习 Hugo&lt;/li&gt;
+&lt;li&gt;搭建个人博客&lt;/li&gt;
+&lt;li&gt;研究 AI 工具&lt;/li&gt;
+&lt;li&gt;学习编程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感谢你的到访。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

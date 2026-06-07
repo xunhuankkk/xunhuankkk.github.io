@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = 'echo '
+
+theme = 'PaperMod'
+
+[pagination]
+pagerSize = 10
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+[[menu.main]]
+identifier = "about"
+name = "关于我"
+url = "/about/"
+weight = 10
