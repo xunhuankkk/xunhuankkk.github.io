@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on echo </title>
-    <link>https://example.org/posts/</link>
+    <link>https://xunhuankkk.github.io/posts/</link>
     <description>Recent content in Posts on echo </description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xunhuankkk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>今天是个特别的日子</title>
-      <link>https://example.org/posts/hello-world/</link>
+      <link>https://xunhuankkk.github.io/posts/hello-world/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/hello-world/</guid>
+      <guid>https://xunhuankkk.github.io/posts/hello-world/</guid>
       <description>&lt;p&gt;今天终于把自己的博客搭起来了。&lt;/p&gt;
 &lt;p&gt;以前一直觉得做网站很难。&lt;/p&gt;
 &lt;p&gt;结果发现跟着一步一步做，其实完全可以实现。&lt;/p&gt;
